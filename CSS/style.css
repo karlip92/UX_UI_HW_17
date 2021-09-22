@@ -1,0 +1,16 @@
+body {
+    background-color:#E4C1F9;
+    color: #FFFFFF;
+}
+header {
+    display:flex;
+    justify-content:space-between;
+}
+
+#herosection {
+    display:flex;
+}
+footer {
+    display:flex;
+    justify-content:space-between;
+}
